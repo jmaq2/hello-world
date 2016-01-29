@@ -1,2 +1,2 @@
 # hello-world
-Learning how things work
+Learning the ABC in progress
